@@ -80,6 +80,3 @@ Python, C# and R. In this project, we have used Python.
 ![Screenshot](./img/hd-endpoint.png)
 Save with HyperDrive model, the endpoint has been consumed with Python via scoring url and auth key has been passed. 
 The input data format must be in json.
-## Screen Recording
-https://www.dropbox.com/s/wb8mulesu1zj0oh/screen.mp4?dl=0
-
