@@ -73,8 +73,8 @@ Below is the best model with its hyperparameters
 I have chose the logistic regression for this dataset, and The Bayesian Parameter Sampling method has been used. 
 The hyperparamters are shown below:
 1. C: is nverse of regularization strength. Smaller values cause stronger regularization. 
-      values have choose in 0.1,0.001,0.01,1,10,15,100
-      Tryinf with different regularization strength from strong to weak will make model generalize data better
+      Values have choose in 0.1,0.001,0.01,1,10,15,100.
+      Trying with different regularization strength from strong to weak will make model generalize data better
 2. max_iter: controls maximum iterations the model will train
              values have choose in 1000,1500,2000
 
