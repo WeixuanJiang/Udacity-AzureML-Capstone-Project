@@ -91,5 +91,5 @@ The way to improve this model is to train longer time as well as with large data
 The Automated ML has been deployed to endpoints with auth enabled. We can consume the endpoint by access web API via
 Python, C# and R. In this project, we have used Python.
 ![Screenshot](./img/hd-endpoint.png)
-Save with HyperDrive model, the endpoint has been consumed with Python via scoring url and auth key has been passed. 
+Same with HyperDrive model, the endpoint has been consumed with Python via scoring url and auth key has been passed. 
 The input data format must be in json.
